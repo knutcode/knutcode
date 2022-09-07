@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Knut, 25 year old front-end dev in the making.
+- 👋 Hi, I’m Knut, 25 year old frontend dev in the making.
 
 - 🌱 I’m currently learning React :] 
 
