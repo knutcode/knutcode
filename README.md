@@ -2,4 +2,7 @@
 
 - 🌱 I’m currently learning React :] 
 
-- 📫 Reach me on discord: knutc#4103
+- 📫 Reach me on here: 
+        discord: knutc#4103
+        email: knut.c.johnsen@gmail.com
+        phone: +47 4747276493
