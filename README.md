@@ -13,9 +13,14 @@
 ## :book: Courses:
 
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
-- [The Frontend Developer Career Path](https://scrimba.com/certificate/uM7P24tG/gfrontend) (completed)
+- [The Frontend Developer Career Path](https://scrimba.com/certificate/uM7P24tG/gfrontend) (Completed)
 - [JavaScript Deep Dive Bootcamp](https://scrimba.com/learn/javascript) (WIP)
 - [Advanced React](https://scrimba.com/learn/react) (WIP)
+
+![Norwegian National Security Authority](https://img.shields.io/badge/Norwegian&nbsp;National&nbsp;Security&nbsp;Authority-55A4A7?style=for-the-badge)
+- [NSM grunnprinsipper for IKT-
+sikkerhet](https://nsm.muniolms.com/no/pdf/diploma/9273b3cf-b6ac-47d3-9bea-06aedeac6117.pdf) (Completed)
+
 
 ## :hammer_and_wrench: Languages and Tools:
 
