@@ -17,6 +17,10 @@
 - [JavaScript Deep Dive Bootcamp](https://scrimba.com/learn/javascript) (WIP)
 - [Advanced React](https://scrimba.com/learn/react) (WIP)
 
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+- [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/) (WIP)
+
+
 ![Norwegian National Security Authority](https://img.shields.io/badge/Norwegian&nbsp;National&nbsp;Security&nbsp;Authority-55A4A7?style=for-the-badge)
 - [NSM grunnprinsipper for IKT-
 sikkerhet](https://nsm.muniolms.com/no/pdf/diploma/9273b3cf-b6ac-47d3-9bea-06aedeac6117.pdf) (Completed)
