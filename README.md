@@ -4,8 +4,6 @@
 
 📫 Reach me here: knut.c.johnsen@gmail.com +47 47276493 
        
-   <a href="https://knutcode.github.io/">
-       <img src="https://img.shields.io/badge/www.knutcode.github.io-55A4A7?style=for-the-badge" alt="Portfolio Badge" style="margin: 5px"/></a>
    <a href="https://www.linkedin.com/in/knut-c-johnsen/">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>   
    <br/>
