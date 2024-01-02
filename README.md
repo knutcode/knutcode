@@ -1,5 +1,5 @@
  ## 👋 Hi, I’m Knut
-🌱 I’m currently doing my internship at [Quantfolio](https://www.quantfol.io/)
+🌱 Currently a Customer Consultant at [Quantfolio](https://www.quantfol.io/)
  
 
 📫 Reach me here: knut.c.johnsen@gmail.com +47 47276493 
