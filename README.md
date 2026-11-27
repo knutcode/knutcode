@@ -9,13 +9,13 @@ Customer Success at [Quantfolio](https://www.quantfol.io/) in Bergen, Norway. I 
 
 ## :robot: How I work
 
-AI is at the centre of how I work. I use agents as everyday colleagues: they take on research, drafting, routine tasks and automation, so I can spend my time on customers and decisions.
+I design my own AI setup: agents, automations and checks that fit how our team works. They take care of the repetitive groundwork, so I get more done and can put my judgement where it matters: customers, priorities and decisions.
 
-I care about keeping people in charge, checking results properly and automating anything that repeats.
+I build it to make people more effective, not to replace them. People stay in charge, results get checked properly, and anything that repeats gets automated.
 
 ## :hammer_and_wrench: What I work with
 
-![Skynet](https://img.shields.io/badge/Skynet-111111?style=for-the-badge)
+![Skynet](https://img.shields.io/badge/Skynet-1E8042?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
