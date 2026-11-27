@@ -9,9 +9,9 @@ Customer Success at [Quantfolio](https://www.quantfol.io/) in Bergen, Norway. I 
 
 ## :robot: How I work
 
-I design my own AI setup: agents, automations and checks that fit how our team works. They take care of the repetitive groundwork, so I get more done and can put my judgement where it matters: customers, priorities and decisions.
+I use Skynet as the harness for my AI agents and automations, set up around how our team works. They take care of repetitive groundwork, which frees up my time for customers, priorities and decisions.
 
-I build it to make people more effective, not to replace them. People stay in charge, results get checked properly, and anything that repeats gets automated.
+The setup is human-in-the-loop: I stay in charge, results get checked, and I automate the routine work where it pays off.
 
 ## :hammer_and_wrench: What I work with
 
